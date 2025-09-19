@@ -4,12 +4,12 @@ I huvudprogrammet skapas objekt av varje klass:
 - En reservation görs och visas
 - En kund (`Samim`) gör en bokning
 
-## 🧰 Funktioner som visas
+##  Funktioner som visas
 - Arv (Bil ärver från Fordon)
 - Inkapsling (protected attribut används i subklass)
 - Objektinstanser och metodanrop
 - Konsolutskrift
 
-## 📦 Körning
+##  Körning
 
 Programmet körs i konsolen och visar information om bil, reservation och kundens bokning.
